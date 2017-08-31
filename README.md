@@ -1,15 +1,15 @@
 # PROJECT PROPOSALS
 
-| BSIT 3-3
+  BSIT 3-3
 
 # MEMBERS
 
-| CARREON, Jerevon
+  CARREON , Jerevon
 
-| DEL ROSARIO, Abigale
+  DEL ROSARIO , Abigale
 
-| EMBRADA, Jonalyn Fe
+  EMBRADA , Jonalyn Fe
 
-| GANILA, Joshua
+  GANILA , Joshua
 
-| INOCENCIO, Jillmarie
+  INOCENCIO , Jillmarie
