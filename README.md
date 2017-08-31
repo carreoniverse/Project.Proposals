@@ -1,2 +1,7 @@
-# Project.Proposals
-This is our official group repository.
+# Group Members
+
+  Jerevon Carreon
+  Abigale Del Rosario
+  Jonalyn Fe Embrada
+  Joshua Ganila
+  Jillmarie Inocencio
